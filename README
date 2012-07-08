@@ -1,0 +1,8 @@
+# Patterns Meetup
+
+Code adapted from the Head First into Design Patterns book with some slight
+practical modifications. The following design patterns are represented:
+
+* Observer (chapter 2)
+* Decorator (chapter 3)
+* Factory Method (first half of chapter 4)
